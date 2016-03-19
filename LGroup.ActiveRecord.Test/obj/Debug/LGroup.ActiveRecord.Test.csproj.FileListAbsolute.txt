@@ -1,0 +1,14 @@
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\bin\Debug\LGroup.ActiveRecord.Test.dll.config
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\bin\Debug\LGroup.ActiveRecord.Test.dll
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\bin\Debug\LGroup.ActiveRecord.Test.pdb
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\bin\Debug\EntityFramework.dll
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\bin\Debug\LGroup.ActiveRecord.Model.dll
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\bin\Debug\nunit.framework.dll
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\bin\Debug\LGroup.ActiveRecord.Model.pdb
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\bin\Debug\EntityFramework.xml
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\bin\Debug\nunit.framework.xml
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\obj\Debug\LGroup.ActiveRecord.Test.csprojResolveAssemblyReference.cache
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\obj\Debug\LGroup.ActiveRecord.Test.dll
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Test\obj\Debug\LGroup.ActiveRecord.Test.pdb

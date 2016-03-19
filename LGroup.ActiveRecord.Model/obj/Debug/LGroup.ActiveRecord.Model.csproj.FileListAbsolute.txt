@@ -1,0 +1,10 @@
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Model\bin\Debug\LGroup.ActiveRecord.Model.dll
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Model\bin\Debug\LGroup.ActiveRecord.Model.pdb
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Model\obj\Debug\LGroup.ActiveRecord.Model.csprojResolveAssemblyReference.cache
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Model\obj\Debug\LGroup.ActiveRecord.Model.dll
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Model\obj\Debug\LGroup.ActiveRecord.Model.pdb
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Model\bin\Debug\LGroup.ActiveRecord.Model.dll.config
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Model\bin\Debug\EntityFramework.dll
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Model\bin\Debug\EntityFramework.xml
+D:\LGroup\LGroup.ActiveRecord\LGroup.ActiveRecord.Model\bin\Debug\EntityFramework.SqlServer.xml
